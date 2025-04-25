@@ -1,0 +1,4 @@
+aiohttp>=3.8.0
+markdown>=3.4.0
+PyYAML>=6.0
+rich>=13.0.0 
